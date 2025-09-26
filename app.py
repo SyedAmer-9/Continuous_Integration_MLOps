@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as st 
 
 st.title("Power Calculator")
 st.write("Enter a number to calculate its square,cube and fifth power : ")
